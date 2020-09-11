@@ -645,7 +645,7 @@ the story, or you might see things you don't want to see!"
 		  "Why are the acknowledgements in the hints?"
 		  "Why not?" 
 		  "Testing: The primary testers for Leather Goddesses of Phobos were Tom Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, and Matt Hillman. In addition, dozens of \"outside testers\" deserve praise for their help."
-		  "Packaging: The package (and its components) was designed by Carl Genatassio and Elizabeth Langosy. The artwork for the 3-D comic (including the cover) is the work of Richard Howell; the 3-D processing was done by Ray Zone. Angela Crews tirelessly learned the ins and outs of scratch-n-sniff while tracking down an affordable scratch-n-sniff printer."
+		  "Packaging: The package (and its components) was designed by Carl Genatossio and Elizabeth Langosy. The artwork for the 3-D comic (including the cover) is the work of Richard Howell; the 3-D processing was done by Ray Zone. Angela Crews tirelessly learned the ins and outs of scratch-n-sniff while tracking down an affordable scratch-n-sniff printer."
 		  "The artwork for the Leather Goddesses of Phobos poster was done by Ken Barr."
 		  "Thanks to Brian Moriarty for the idea of including a 3-D comic. Thanks to Ed Black for implementing the \"boss key\" feature in the original IBM version. Thanks to Dave Lebling for some timely technical assistance. And thanks to Jon Palace for a host of things, but especially for his help in \"sensualizing\" the text, and for being a front-line defense against scheming marketeers.">
 >>
